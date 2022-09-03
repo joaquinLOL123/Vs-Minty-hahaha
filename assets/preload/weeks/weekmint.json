@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"mint-fun",
+			"minty",
+			[
+				195,
+				255,
+				255
+			]
+		],
+		[
+			"minty-legends",
+			"minty",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cone'd",
+			"minty",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Mintiest minty ever",
+	"weekName": "Weekmint",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

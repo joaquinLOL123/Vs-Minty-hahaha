@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sup im mi-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Rap battle now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Also mint chocolate sucks."
+		},
+		{
+			"speed": 0.13,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's literally many people who like that flavour."
+		},
+		{
+			"speed": 0.11,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dumbass."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Name them."
+		},
+		{
+			"speed": 0.15,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhmmm"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhh..."
+		}
+	]
+}

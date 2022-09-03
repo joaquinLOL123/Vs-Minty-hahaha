@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minty.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mint down0000" x="0" y="0" width="956" height="772" frameX="0" frameY="-67" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0001" x="0" y="0" width="956" height="772" frameX="0" frameY="-67" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0002" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0003" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0004" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0005" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0006" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0007" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0008" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0009" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0010" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0011" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint down0012" x="956" y="0" width="850" height="850" frameX="-53" frameY="0" frameWidth="956" frameHeight="850"/>
+	<SubTexture name="mint idle0000" x="1806" y="0" width="899" height="776" frameX="0" frameY="-63" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0001" x="1806" y="0" width="899" height="776" frameX="0" frameY="-63" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0002" x="2705" y="0" width="870" height="830" frameX="-14" frameY="-18" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0003" x="2705" y="0" width="870" height="830" frameX="-14" frameY="-18" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0004" x="0" y="850" width="857" height="837" frameX="-21" frameY="-11" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0005" x="0" y="850" width="857" height="837" frameX="-21" frameY="-11" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0006" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0007" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0008" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0009" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0010" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0011" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint idle0012" x="857" y="850" width="850" height="850" frameX="-23" frameY="0" frameWidth="899" frameHeight="850"/>
+	<SubTexture name="mint left0000" x="1707" y="850" width="903" height="850"/>
+	<SubTexture name="mint left0001" x="1707" y="850" width="903" height="850"/>
+	<SubTexture name="mint left0002" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0003" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0004" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0005" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0006" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0007" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0008" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0009" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0010" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0011" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint left0012" x="2610" y="850" width="876" height="850" frameX="-26" frameY="0" frameWidth="903" frameHeight="850"/>
+	<SubTexture name="mint right0000" x="0" y="1700" width="936" height="850"/>
+	<SubTexture name="mint right0001" x="0" y="1700" width="936" height="850"/>
+	<SubTexture name="mint right0002" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0003" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0004" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0005" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0006" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0007" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0008" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0009" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0010" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0011" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint right0012" x="936" y="1700" width="851" height="850" frameX="-16" frameY="0" frameWidth="936" frameHeight="850"/>
+	<SubTexture name="mint up0000" x="1787" y="1700" width="802" height="935" frameX="-24" frameY="0" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0001" x="1787" y="1700" width="802" height="935" frameX="-24" frameY="0" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0002" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0003" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0004" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0005" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0006" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0007" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0008" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0009" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0010" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0011" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+	<SubTexture name="mint up0012" x="2589" y="1700" width="850" height="850" frameX="0" frameY="-71" frameWidth="850" frameHeight="935"/>
+</TextureAtlas>

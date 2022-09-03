@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mint left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mint down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mint up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mint right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mint idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minty",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "minty",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		182,
+		166
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
