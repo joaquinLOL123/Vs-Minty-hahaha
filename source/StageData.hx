@@ -31,7 +31,7 @@ class StageData {
 		} else if(SONG.song != null) {
 			switch (SONG.song.toLowerCase().replace(' ', '-'))
 			{
-				case 'mint-fun' | "minty-legends" | "cone'd":
+				case 'mint-fun' | "minty-legends" | "coned":
 					stage = 'spooky';
 				default:
 					stage = 'stage';
