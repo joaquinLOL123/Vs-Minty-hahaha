@@ -1,4 +1,4 @@
-# Vs Minty (The polandball oc based on mint ice cream, not the other Vs minty guy)
+# Vs Minty (The polandball oc based on mint ice cream made by Galaxy, not the other Vs minty guy)
 
 THE ONE PIECE
 
