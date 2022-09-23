@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				91,
+				121,
 				50
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "mint left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mint left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				80,
-				30
+				50
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "mint down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mint down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				34,
-				110
+				140
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "mint up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "mint up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				47
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "mint right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mint right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				50,
 				50
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "mint idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "mint idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/minty",
 	"position": [
-		-100,
-		100
+		50,
+		300
 	],
 	"healthicon": "minty",
 	"flip_x": false,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		0,
-		110
+		50
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"scale": 0.85
 }

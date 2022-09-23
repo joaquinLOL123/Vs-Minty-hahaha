@@ -2,19 +2,18 @@
 <TextureAtlas imagePath="logoBumpin.png">
 	<!-- Created with Adobe Animate version 22.0.4.185 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="logo bumpin0000" x="0" y="0" width="768" height="768" frameX="-24" frameY="-14" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0001" x="768" y="0" width="818" height="769" frameX="0" frameY="-13" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0002" x="768" y="0" width="818" height="769" frameX="0" frameY="-13" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0003" x="0" y="769" width="762" height="798" frameX="-27" frameY="0" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0004" x="0" y="769" width="762" height="798" frameX="-27" frameY="0" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0005" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0006" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0007" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0008" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0009" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0010" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0011" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0012" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0013" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
-	<SubTexture name="logo bumpin0014" x="762" y="769" width="772" height="772" frameX="-22" frameY="-12" frameWidth="818" frameHeight="798"/>
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="789" height="789" frameX="-30" frameY="-30" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0001" x="789" y="0" width="850" height="850"/>
+	<SubTexture name="logo bumpin0002" x="789" y="0" width="850" height="850"/>
+	<SubTexture name="logo bumpin0003" x="0" y="850" width="801" height="801" frameX="-24" frameY="-24" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0004" x="0" y="850" width="801" height="801" frameX="-24" frameY="-24" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0005" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0006" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0007" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0008" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0009" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0010" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0011" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0012" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
+	<SubTexture name="logo bumpin0013" x="801" y="850" width="793" height="793" frameX="-28" frameY="-28" frameWidth="850" frameHeight="850"/>
 </TextureAtlas>

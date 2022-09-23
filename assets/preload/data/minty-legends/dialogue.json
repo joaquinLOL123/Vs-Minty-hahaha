@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lmao the scrollspeed was too fast it was dogshit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Automatic L bozo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "You bastard."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "son of a bitch!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fuck off."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Kill yourself :troll:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Plus this is just the start of the second song so stop being such a whiny baby."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "also son of a who?"
+		}
+	]
+}

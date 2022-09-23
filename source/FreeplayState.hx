@@ -56,6 +56,7 @@ class FreeplayState extends MusicBeatState
 		DiscordClient.changePresence("In the Menus", null);
 		#end
 
+
 		for (i in 0...WeekData.weeksList.length) {
 			var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
 			var leSongs:Array<String> = [];
@@ -77,6 +78,11 @@ class FreeplayState extends MusicBeatState
 		WeekData.setDirectoryFromWeek();
 
 		var initSonglist = CoolUtil.coolTextFile(Paths.txt('freeplaySonglist'));
+		if (! StoryMenuState.weekCompleted.exists('weekmint'))
+		{
+			initSonglist.remove('whatsapp-status:minty:0xFFC3FFFF');
+			trace('no.');
+		}
 		for (i in 0...initSonglist.length)
 		{
 			if(initSonglist[i] != null && initSonglist[i].length > 0) {
@@ -176,6 +182,7 @@ class FreeplayState extends MusicBeatState
 
 	public function addSong(songName:String, weekNum:Int, songCharacter:String, color:Int)
 	{
+
 		songs.push(new SongMetadata(songName, weekNum, songCharacter, color));
 	}
 
