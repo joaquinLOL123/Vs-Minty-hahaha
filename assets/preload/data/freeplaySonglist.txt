@@ -1,1 +1,2 @@
 whatsapp-status:minty:0xFFC3FFFF
+Healer:lovely:0xFFFFCAE2

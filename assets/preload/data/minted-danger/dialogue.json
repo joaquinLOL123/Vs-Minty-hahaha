@@ -1,0 +1,207 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THAT'S IT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M TIRED OF YOUR BULLSHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOW FC THIS LOWKEY EASY SONG IF YOU'RE AN INTERMEDIATE RHYTHM PLAYER"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will use botpla ys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "teehee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I warned you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I warned you in the last song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was meaning to tell you were somehow gonna regret this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You never listened, or cared."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's just..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nevermind, it's probably nothing, nothing you should know about."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you female"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you male"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Actually wait idk your actual gender dude"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm literally dating a guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shits crazy in Highway Havoc!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Anyways!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU CAUSED SO MUCH CHAOS, I WARNED YOU NOT TO CONTINUE, YET YOU STILL DID. I HATE YOU. I ABSOLUTELY HATE YOU."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WARNED YOU YET YOU IGNORED ME, JUST LIKE EVERYONE DOES. I CAN'T."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IF I WE'RE REAL, I WOULD BE HERE SLAUGHTERING YOUR ENTIRE FAMILY AND EVERYBODY THAT YOU LOVED  IN YOUR FUCKING ->"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "-> PATHETIC REALISTIC LIFE PLAYING THIS GAME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WOULD KILL THEM AND ENJOY EVERY SINGLE SECOND OF IT, I WOULD ENJOY THEIR SCREAMS, THEM BEGGING, AND EVEN...->"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "-> EVEN THEM DYING INFRONT OF ME, BLEEDING TO DEATH IN A PAINFUL TORTUROUS WAY ALL THANKS TO ME. ->"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "-> I WOULD LOVE SEEING THEM SUFFER AND GET THEIR LIVES RUINED BY ME! AHAHA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ALL BECAUSE OF YOU! HAH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(She had PTSD like Flippy happy tree friend)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shit crazy in this Highway! So havoc! Highway Havoc!"
+		}
+	]
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				39,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mint ey idleing h"
+		},
+		{
+			"offsets": [
+				-34,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mint y left arrow"
+		},
+		{
+			"offsets": [
+				-31,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "minter down arrow"
+		},
+		{
+			"offsets": [
+				-67,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mint y right arrow"
+		},
+		{
+			"offsets": [
+				-66,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "minter up arrow"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				60
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Shredder - Bambi Extra Song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				60
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Shredder - Bambi Extra Song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				54
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Shredder - Bambi Extra Song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				64
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Shredder - Bambi Extra Song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				98
+			],
+			"anim": "singLEFT-alt2",
+			"fps": 24,
+			"name": "minty sing guitar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				50
+			],
+			"anim": "singDOWN-alt2",
+			"fps": 24,
+			"name": "minty sing guitar down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				95
+			],
+			"anim": "singUP-alt2",
+			"fps": 24,
+			"name": "minty sing guitar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				52
+			],
+			"anim": "singRIGHT-alt2",
+			"fps": 24,
+			"name": "minty sing guitar right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				53
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "guitar idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				80
+			],
+			"anim": "Jesus Christ",
+			"fps": 24,
+			"name": "guitar appear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MINTY_HUMANAAAAAA",
+	"position": [
+		-400,
+		-300
+	],
+	"healthicon": "mintyhumane",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		182,
+		186
+	],
+	"camera_position": [
+		230,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.65
+}

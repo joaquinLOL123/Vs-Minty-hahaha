@@ -26,6 +26,15 @@
 				255,
 				255
 			]
+		],
+		[
+			"minted-danger",
+			"mintyhumane",
+			[
+				195,
+				255,
+				255
+			]
 		]
 	],
 	"hideFreeplay": false,

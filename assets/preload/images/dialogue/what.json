@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-300,
+		-550
+	],
+	"scale": 0.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "send help please",
+			"idle_name": "send help please"
+		}
+	],
+	"image": "Mintey please stop calling her human form mommy minty i swear i will chop your head and eat it for dinner"
+}

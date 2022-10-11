@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "love left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "love down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "love up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "love right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				42
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "love dance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				42
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "love dance right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lovely",
+	"position": [
+		60,
+		300
+	],
+	"healthicon": "lovely",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		226
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.75
+}

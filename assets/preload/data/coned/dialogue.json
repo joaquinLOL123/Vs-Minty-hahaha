@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Arghhh xddd"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "!!!LAME EL PISO DE LA CARRETERA AHORA MISMO!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU'RE GETTING CONE'D. AND YOU'RE GONNA ENJOY IT."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the hell is coning?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "the Fortnite tactic? Fortnite minty legends??? Leak!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hate you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is the last straw Friday Night Funkin"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Try me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OH! ALRIGHT THEN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Blue haired freak"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro you're literally a mint and white polandball bruhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhmm but ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is your last chance"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "If you continue after this song... Might aswell ruin YOUR LIFE HAHA!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mintye",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HAHAHAHA!! AHAHA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wtf is going on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro nawh dawg she insane"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that's crazy!"
+		}
+	]
+}

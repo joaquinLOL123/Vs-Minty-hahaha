@@ -25,8 +25,8 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color - Has alt icon (update: the "has alt icon" thing is useless now L)
 		['Vs minty team'],
-		['GalaxyChan',		'galaxy',		'Made all the songs, art\n and the og non-meme version of toothpaste (the title music)',					'https://twitter.com/atLittleLad',	0xFFFF9288, true],
-		['JoaquinLOL',			'joaquin',		'Made charts, code,\n toothpaste meme mix,\n and the og version of minty legends',				'https://twitter.com/joaquinLOL123',		0xFFCEff91, true],
+		['GalaxyChan',		'galaxy',		'Made all the songs (except healer), art\n and the og non-meme version of toothpaste (the title music)',					'https://twitter.com/atLittleLad',	0xFFFF9288, true],
+		['JoaquinLOL',			'joaquin',		'Made charts, code,\n toothpaste meme mix, healer, bad ending music,\n and the og version of minty legends',				'https://twitter.com/joaquinLOL123',		0xFFCEff91, true],
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33, false],
